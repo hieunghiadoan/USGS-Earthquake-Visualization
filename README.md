@@ -2,12 +2,11 @@
 
 # USGS Earthquake Visualization
 
-An interactive web-based map to visualize earthquake data collected by the United States Geological Survey (USGS), highlighting the relationship between tectonic plates and seismic activity.
+A web-based map that is interactive in nature has been developed to display the earthquake data gathered by the United States Geological Survey (USGS). This map aims to emphasize the correlation between tectonic plates and seismic events.
 
 ## Background
 
-The USGS is responsible for providing scientific data about natural hazards, the health of our ecosystems and environment, and the impacts of climate and land-use change. They collect a vast amount of earthquake data from around the world daily. This project aims to develop a visualization tool for USGS data, allowing them to better educate the public and other government organizations on issues facing our planet.
-
+The USGS has the responsibility of supplying scientific information regarding natural disasters, the well-being of our ecosystems and surroundings, and the consequences of climate change and alterations in land usage. On a daily basis, they gather a substantial quantity of earthquake-related data from various locations globally. The objective of this initiative is to create a visualization tool specifically for USGS data, enabling them to enhance public awareness and provide educational resources to other government entities regarding the challenges our planet is confronting.
 ## Features
 
 - Leaflet-based interactive map
